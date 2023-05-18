@@ -9,4 +9,5 @@ Real-time visualization of the sorting process with colored bars representing th
 
 # Technologies Used
 HTML/CSS: The project's user interface is built using HTML and styled with CSS.
+
 JavaScript: The sorting algorithms and visualization logic are implemented in JavaScript.
