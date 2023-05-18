@@ -5,6 +5,7 @@ The Sorting Visualizer project is a program that allows you to visualize various
 
 # Features
 Visualization of popular sorting algorithms, including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort.
+
 Real-time visualization of the sorting process with colored bars representing the elements.
 
 # Technologies Used
