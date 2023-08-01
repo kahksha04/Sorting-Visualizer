@@ -1,4 +1,4 @@
-# Sorting-Visualisers
+# Sorting-Visualizers
 
 # Introduction
 The Sorting Visualizer project is a program that allows you to visualize various sorting algorithms in action. It provides a graphical representation of how different sorting algorithms work and how they rearrange elements in a list to achieve a sorted order. This README file will guide you through the project and explain how to set it up and use it effectively.
